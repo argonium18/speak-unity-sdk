@@ -1,6 +1,3 @@
-# SDKの不具合に関して
-特定の環境にて現在配布中のSDKに不具合がございました。SDKに関する不具合は[こちら](https://github.com/docomoDeveloperSupport/speak-unity-sdk/issues)、サンプルアプリに関する不具合は[こちら](https://github.com/docomoDeveloperSupport/speak-unity-sample/issues)をご覧下さい。
-
 # Speak SDK for Unity
 本SDKは株式会社NTTドコモが提供する[ドコモAIエージェントAPI](https://docs.sebastien.ai/)を利用するためのSDKです。
 
