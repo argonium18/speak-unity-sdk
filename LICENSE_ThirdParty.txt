@@ -147,7 +147,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 - moodycamel::ConcurrentQueue
 
 URL:https://github.com/cameron314/concurrentqueue
-LICENSE:https://github.com/cameron314/concurrentqueue/blob/3df464c32cdfed55c9388d9b3e43ec2efa95193c/LICENSE.md
+LICENSE:https://github.com/cameron314/concurrentqueue/blob/2272908cb1bd923358116763a2611c1040524d7d/LICENSE.md
 
 The program includes software licensed under below.
 
@@ -373,7 +373,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 - libogg
  
 URL:https://github.com/xiph/ogg
-LICENSE:https://github.com/xiph/ogg/blob/v1.3.3/COPYING
+LICENSE:https://github.com/xiph/ogg/blob/v1.3.4/COPYING
 
 Copyright (c) 2002, Xiph.org Foundation
 
@@ -408,9 +408,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 - libvorbis
 
 URL:https://github.com/xiph/vorbis
-LICENSE:https://github.com/xiph/vorbis/blob/v1.3.6/COPYING
+LICENSE:https://github.com/xiph/vorbis/blob/v1.3.7/COPYING
 
-Copyright (c) 2002-2018 Xiph.org Foundation
+Copyright (c) 2002-2020 Xiph.org Foundation
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
@@ -542,7 +542,7 @@ purpose.  It is provided "as is" without express or implied warranty.
 - spdlog
  
 URL:https://github.com/gabime/spdlog
-LICENSE:https://github.com/gabime/spdlog/blob/b6b9d835c588c35227410a9830e7a4586f90777a/LICENSE
+LICENSE:https://github.com/gabime/spdlog/blob/v1.x/LICENSE
  
 The program includes software licensed under below.
  
@@ -568,6 +568,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
  
+-- NOTE: Third party dependency used by this software --
+This software depends on the fmt lib (MIT License),
+and users must comply to its license: https://github.com/fmtlib/fmt/blob/master/LICENSE.rst
+
 ----------
 - PEGTL
  
